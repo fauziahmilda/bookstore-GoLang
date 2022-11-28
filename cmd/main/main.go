@@ -1,0 +1,1 @@
+//main file ini keempat, memberitahu golang ini ada routes
